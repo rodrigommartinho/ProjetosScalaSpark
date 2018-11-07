@@ -1,0 +1,992 @@
+!SESSION 2018-09-18 22:00:37.997 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-09-18 22:01:52.268
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-18 22:01:52.268
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5269ff98,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b40658f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-18 22:02:03.251
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-09-18 22:05:08.182 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-09-18 22:05:15.516
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2018-09-18 22:05:22.474
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-18 22:05:22.474
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3aad77ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77a7938d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-18 22:05:29.255
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 2 0 2018-09-18 22:14:20.795
+!MESSAGE Preference scala.compiler.sourceLevel was uninitialized for SparkScalaCourse, setting default to 2.12.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-09-18 22:14:20.805
+!MESSAGE Adding  -Xsource:2.11 -Ymacro-expand:none to compiler arguments of SparkScalaCourse because of: requested Scala Installation change
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-09-18 22:22:25.601
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2018-09-20 21:22:28.500 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-09-20 21:23:13.691
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2018-09-20 21:24:29.903
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-20 21:24:29.903
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4a18f11b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5582b634,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-20 21:26:13.902
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-09-21 21:24:21.934 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-09-21 21:26:03.316
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-21 21:26:03.316
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1257f875,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2bbbcebe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-21 21:27:30.268
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2018-09-21 22:23:10.076
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.StringIndexOutOfBoundsException: String index out of range: 9
+	at java.lang.String.charAt(Unknown Source)
+	at org.eclipse.swt.custom.StyledText.getOffsetAtPoint(StyledText.java:4493)
+	at org.eclipse.swt.custom.StyledText.getOffsetAtPoint(StyledText.java:4474)
+	at org.eclipse.swt.custom.StyledText.doMouseLocationChange(StyledText.java:2866)
+	at org.eclipse.swt.custom.StyledText.handleMouseDown(StyledText.java:6107)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5735)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SESSION 2018-09-25 20:38:31.576 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-09-25 20:39:03.172
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-25 20:39:03.172
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@56713b02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bc8f5e9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-25 20:39:36.589
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-09-25 20:39:36.929
+!MESSAGE Timeout while resolving hyperlink in C:\Users\Rodrigo\Documents\Estudo\Curso Udemy\Apache Spark 2 with Scala - Hands On with Big Data!\SparkScalaCourse\src\com\projecthome\spark\FriendsByAge.scala at: offset: 544, length: 0
+!SESSION 2018-09-28 15:32:42.895 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-09-28 15:33:05.141
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-28 15:33:05.141
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7da23f69,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62a5d6f5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-28 15:33:15.410
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-09-28 20:46:56.228 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-09-28 20:48:02.023
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-09-28 20:48:02.023
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@568e5659,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37d0e7f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-28 20:48:20.384
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-01 20:50:04.913 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-10-01 20:51:02.863
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-01 20:51:02.863
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@102c3e0a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@73c45290,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-01 20:51:15.433
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-02 20:51:59.154 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-10-02 20:52:30.924
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-02 20:52:30.924
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41881f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8637c44,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-02 20:53:07.015
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-02 21:24:07.431 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-10-02 21:24:42.411
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-02 21:24:42.411
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10904249,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48b27b8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 2 2018-10-02 21:24:51.195
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The resource tree is locked for modifications.
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:119)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.Resource.createMarker(Resource.java:695)
+	at org.scalaide.core.resources.MarkerFactory.create(MarkerFactory.scala:48)
+	at org.scalaide.core.resources.MarkerFactory.create(MarkerFactory.scala:38)
+	at org.scalaide.core.internal.project.InstallationManagement.$anonfun$validatedLabeledScalaInstallation$3(InstallationManagement.scala:62)
+	at org.scalaide.core.internal.project.InstallationManagement$WithValidation.get(InstallationManagement.scala:27)
+	at org.scalaide.core.internal.project.InstallationManagement.effectiveScalaInstallation(InstallationManagement.scala:94)
+	at org.scalaide.core.internal.project.InstallationManagement.effectiveScalaInstallation$(InstallationManagement.scala:92)
+	at org.scalaide.core.internal.project.ScalaProject.effectiveScalaInstallation(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.validateCompilerPlugins(ClasspathManagement.scala:521)
+	at org.scalaide.core.internal.project.ClasspathManagement.checkClasspath(ClasspathManagement.scala:355)
+	at org.scalaide.core.internal.project.ClasspathManagement.checkClasspath$(ClasspathManagement.scala:348)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.classpathHasChanged(ClasspathManagement.scala:245)
+	at org.scalaide.core.internal.project.ClasspathManagement.classpathHasChanged$(ClasspathManagement.scala:240)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:150)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$2(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$2$adapted(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$1(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$1$adapted(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:32)
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:29)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:191)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1703)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1693)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1527)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1503)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2219)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2109)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:473)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:795)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2046)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3497)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2687)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2851)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:1989)
+	at org.scalaide.core.internal.project.ScalaProject.resolvedClasspath(ScalaProject.scala:259)
+	at org.scalaide.core.internal.project.ScalaProject.sourceOutputFolders(ScalaProject.scala:232)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:479)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit.buildStructure(ScalaCompilationUnit.scala:113)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit.buildStructure$(ScalaCompilationUnit.scala:110)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.buildStructure(ScalaSourceFile.scala:71)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:724)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:790)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:99)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:1031)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1274)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4178)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:257)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1466)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2557)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2530)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1417)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$5.run(AbstractTextEditor.java:3154)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2137)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3172)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3197)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:362)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:333)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1293)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:97)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:679)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:530)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:70)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:79)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:97)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:61)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:679)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:704)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1076)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SUBENTRY 1 org.eclipse.core.resources 4 380 2018-10-02 21:24:51.199
+!MESSAGE The resource tree is locked for modifications.
+!SUBENTRY 1 org.eclipse.core.resources 4 380 2018-10-02 21:24:51.199
+!MESSAGE The resource tree is locked for modifications.
+
+!ENTRY org.eclipse.jdt.core 4 4 2018-10-02 21:24:51.200
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The resource tree is locked for modifications.
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:119)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.Resource.createMarker(Resource.java:695)
+	at org.scalaide.core.resources.MarkerFactory.create(MarkerFactory.scala:48)
+	at org.scalaide.core.resources.MarkerFactory.create(MarkerFactory.scala:38)
+	at org.scalaide.core.internal.project.InstallationManagement.$anonfun$validatedLabeledScalaInstallation$3(InstallationManagement.scala:62)
+	at org.scalaide.core.internal.project.InstallationManagement$WithValidation.get(InstallationManagement.scala:27)
+	at org.scalaide.core.internal.project.InstallationManagement.effectiveScalaInstallation(InstallationManagement.scala:94)
+	at org.scalaide.core.internal.project.InstallationManagement.effectiveScalaInstallation$(InstallationManagement.scala:92)
+	at org.scalaide.core.internal.project.ScalaProject.effectiveScalaInstallation(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.validateCompilerPlugins(ClasspathManagement.scala:521)
+	at org.scalaide.core.internal.project.ClasspathManagement.checkClasspath(ClasspathManagement.scala:355)
+	at org.scalaide.core.internal.project.ClasspathManagement.checkClasspath$(ClasspathManagement.scala:348)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:150)
+	at org.scalaide.core.internal.project.ClasspathManagement.classpathHasChanged(ClasspathManagement.scala:245)
+	at org.scalaide.core.internal.project.ClasspathManagement.classpathHasChanged$(ClasspathManagement.scala:240)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:150)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$2(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$2$adapted(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$1(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin.$anonfun$elementChanged$1$adapted(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:32)
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:29)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:191)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1703)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1693)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1527)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1503)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyAndFire(DeltaProcessor.java:2219)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2109)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:473)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:795)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2046)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:3497)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2687)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2851)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:1989)
+	at org.scalaide.core.internal.project.ScalaProject.resolvedClasspath(ScalaProject.scala:259)
+	at org.scalaide.core.internal.project.ScalaProject.sourceOutputFolders(ScalaProject.scala:232)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:479)
+	at org.scalaide.core.internal.project.ScalaProject.prepareCompilerSettings(ScalaProject.scala:438)
+	at org.scalaide.core.internal.project.ScalaProject.$anonfun$presentationCompiler$1(ScalaProject.scala:162)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit.buildStructure(ScalaCompilationUnit.scala:113)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit.buildStructure$(ScalaCompilationUnit.scala:110)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.buildStructure(ScalaSourceFile.scala:71)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:724)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:790)
+	at org.eclipse.jdt.internal.core.CompilationUnit.becomeWorkingCopy(CompilationUnit.java:99)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:1031)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1274)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4178)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:257)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1466)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2557)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2530)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1417)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$5.run(AbstractTextEditor.java:3154)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2137)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3172)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3197)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:362)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:333)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:990)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:955)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:124)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:399)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:318)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:105)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:74)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:56)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1293)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:97)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:679)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:530)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:70)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:992)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:661)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:79)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:97)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:61)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:679)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:137)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:69)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:704)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:675)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:767)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:738)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:732)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:716)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1076)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SUBENTRY 1 org.eclipse.core.resources 4 380 2018-10-02 21:24:51.202
+!MESSAGE The resource tree is locked for modifications.
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-02 21:24:58.518
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-10-02 21:28:33.512
+!MESSAGE Adding  -Xsource:2.11 -Ymacro-expand:none to compiler arguments of SparkScalaCourse because of: requested Scala Installation change
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-10-02 21:29:00.148
+!MESSAGE Adding  -Xsource:2.11 -Ymacro-expand:none to compiler arguments of SparkScalaCourse because of: requested Source Level change
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-10-02 21:42:13.827
+!MESSAGE Removing -Xsource:2.11 -Ymacro-expand:none from compiler arguments of SparkScalaCourse because of: requested Scala Installation change
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-10-02 21:42:13.828
+!MESSAGE Turning off project-specific settings for SparkScalaCourse because of Settings are all identical to workspace after Xsource removal.
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-10-02 21:43:13.543
+!MESSAGE Adding  -Xsource:2.11 -Ymacro-expand:none to compiler arguments of SparkScalaCourse because of: requested Scala Installation change
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-10-02 22:14:12.667
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2018-10-05 21:07:13.565 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-10-05 21:07:49.543
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2018-10-05 21:08:06.093
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-05 21:08:06.093
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37d9e2b9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@169f3625,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-05 21:08:54.922
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-08 21:04:46.990 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-10-08 21:05:11.973
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-08 21:05:11.973
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@159efe66,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@187412e0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-08 21:05:25.745
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-09 20:22:19.600 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-10-09 20:22:35.296
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-09 20:22:35.296
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3afb7ca1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c4fab89,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-09 20:22:52.386
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-10-09 21:48:46.031 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/spark/curso_spark/
+
+!ENTRY org.eclipse.jface 2 0 2018-10-09 21:49:02.244
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-10-09 21:49:02.244
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@67e68f31,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@602a3b0e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-09 21:49:17.491
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2018-11-06 21:43:15.341 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_191
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2018-11-06 21:43:52.379
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-11-06 21:43:52.379
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@364ab0ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@dcac3d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-11-06 21:44:30.062
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rodrigo'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
